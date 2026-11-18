@@ -1,0 +1,6 @@
+{
+  "name": "Block Explorer",
+  "description": "A responsive split-screen geospatial exploration app powered by Google Maps Platform and the Geocoding V4 API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
